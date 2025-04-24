@@ -1,4 +1,4 @@
-# Welcome!
+  # <p align="center"> Welcome!🚀 </p>
 
 My name is Sean Shadanlou
 ---
